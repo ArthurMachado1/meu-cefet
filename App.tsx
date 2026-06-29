@@ -1,3 +1,5 @@
+//Arthur e Danielle
+
 import { NavigationContainer } from '@react-navigation/native';
 import AppRoutes from './src/routes/AppRoutes';
 
